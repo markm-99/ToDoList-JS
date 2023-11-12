@@ -1,0 +1,59 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Cutive', serif;
+    background: url("https://images.unsplash.com/photo-1598063183638-4ffe7c5f0f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80") no-repeat center center fixed;
+    background-size: cover;
+  }
+  
+  h1 {
+    text-align: left;
+    font-family: 'Cutive', serif;
+    font-size: 40px;
+    letter-spacing: 4px;
+    word-spacing: -8px;
+    color: #FEFAFF;
+    margin-left: 30px;
+    text-shadow: 
+      -1px -1px 0 #CF599C,
+      -2px -2px 0 #FFA0BD,
+      -3px -3px 0 #FFA0BD,
+      -4px -4px 0 #FFA0BD,
+      -5px -5px 0 #FFA0BD,
+      -30px 20px 40px dimgrey;
+  }
+   
+  
+  li {
+    color: #fff;
+    text-shadow: 
+      0.5px 0.5px 0 #4D84A7;
+    font-family: 'Cutive', serif;
+  }
+  
+  p {
+    margin-left: 30px;
+  }
+  
+  button {
+    color: #fff; 
+    background: #FFA0BD;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: #FAD4EA;
+    font-family: 'Cutive', serif;
+  }
+  
+  input {
+    font-family: 'Cutive', serif;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 30px;
+    border-color: #FAD4EA;
+    background-color: #FFFAFD;
+    
+  }
+  
+  .done {
+    text-decoration: line-through #FFFAFD;
+  }
