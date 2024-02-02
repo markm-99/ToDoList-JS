@@ -1,2 +1,2 @@
 # ToDoList-JS
-Aesthetic todo list made using HTML, CSS, and JS
+Aesthetic todo list made using JavaScript, CSS, and HTML
